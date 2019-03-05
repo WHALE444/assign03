@@ -1,5 +1,9 @@
 # Weather application
 
+![image](https://github.com/WHALE444/assign03/blob/master/gif-weather.mp4)
+
+
+
 ![Weather application](display/weather_app_assign.png)
 
 For our first Android application, let us design a Weather application. We will first complete the application, then discuss the details later. We will learn by doing.
